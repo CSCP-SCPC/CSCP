@@ -5,7 +5,7 @@ credits: '<p>Created by <a href="http://phlow.de/">Phlow</a> with <a href="http:
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
+url: 'https://cscp-scpc.github.io'
 baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
