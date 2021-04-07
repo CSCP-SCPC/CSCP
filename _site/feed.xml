@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Canadian Society of Christian Philosophers</title>
+		<description>This is the homepage of the CSCP-SCPC.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Previous Meetings</title>
+				<link>http://localhost:4000/previous-meetings/</link>
+				<pubDate>Wed, 07 Apr 2021 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;Our 2020 meeting would have been held at Western University, in London, Ontario, on June 1st, 2020. The Call for Papers can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2019 meeting was held at the University of British Columbia, Vancouver on June 1st, 2019. The programme can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2018 meeting was held at l’Université de Québec on June 5th, 2018. The programme can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2017 meeting was held at Ryerson University on May 29th, 2017. The programme can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2016 meeting was held at the University of Calgary on May 30th, 2016. The programme can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2015 meeting was held at the University of Ottawa on June 1st.  The programme can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2014 meeting was held at Brock University on May 26th.  The programme can be found here.&lt;/p&gt;
+
+&lt;p&gt;Our 2013 meeting was held at the University of Victoria on June 3rd.  The program can be found here.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/previous-meetings/</guid>
+			</item>
+		
+			<item>
+				<title>Call for Papers</title>
+				<link>http://localhost:4000/call-for-papers/</link>
+				<pubDate>Wed, 07 Apr 2021 00:00:00 -0400</pubDate>
+				<description>&lt;p&gt;The &lt;strong&gt;Canadian Society of Christian Philosophers&lt;/strong&gt; will hold its annual meeting on June 1, 2021 as part of the Annual Congress of the Canadian Philosophical Association, which will be sponsored by the University of Alberta, but held completely online.  We invite submissions in any field of philosophy, that, by virtue of its topic, may be of particular interest to Christian philosophers. Please submit an abstract of no more than 500 words (which should be formatted as a Word, pdf, or rtf document). Submissions may be in either French or English. Those who are interested should send their abstract, prepared for blind review, to Prof. Jennifer Hart Weed: jweed@unb.ca.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deadline: February 1st, 2021.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our main event will be a lecture by Professor Graeme Hunter, Research Professor at Dominican University College in Ottawa.  For updates and for information on the society, visit our website: &lt;a href=&quot;www.cscp-scpc.ca&quot;&gt;www.cscp-scpc.ca&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/call-for-papers/</guid>
+			</item>
+		
+	</channel>
+</rss>

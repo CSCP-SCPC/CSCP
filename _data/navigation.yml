@@ -1,0 +1,29 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Executive
+  url: "/executive/"
+  side: left
+
+- title: "Membership"
+  url: "/membership/"
+  side: left
+
+- title: "Annual Meeting"
+  url: "/annual-meeting/"
+  side: left
+  dropdown:
+  - title: "Call for Papers"
+    url: "/call-for-papers/"
+
+  - title: "Previous Meetings"
+    url: "/previous-meetings/"
+
+- title: "Links"
+  url: "/links/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
