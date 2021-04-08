@@ -1,5 +1,5 @@
 - title: Home
-  url: "info"
+  url: "/index"
   side: left
 
 - title: Executive
