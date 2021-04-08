@@ -12,7 +12,7 @@ Our 2020 meeting would have been held at Western University, in London, Ontario,
 
 Our 2019 meeting was held at the University of British Columbia, Vancouver on June 1st, 2019. The programme can be found [here][1].
 
-Our 2018 meeting was held at l’Université de Québec on June 5th, 2018. The programme can be found here.
+Our 2018 meeting was held at l’Université de Québec on June 5th, 2018. The programme can be found [here][2].
 
 Our 2017 meeting was held at Ryerson University on May 29th, 2017. The programme can be found here.
 
@@ -30,9 +30,9 @@ On organise une conférence chaque année en tandem avec l’Association Canadie
 
 Notre prochaine conférence sera organisée le 1er Juin 2020 à Western University, London.
 
-Le programme pour la conférence qui s’est passée le 1er Juin 2019 à University of British Columbia, Vancouver,  peut être téléchargé ici.
+Le programme pour la conférence qui s’est passée le 1er Juin 2019 à University of British Columbia, Vancouver,  peut être téléchargé [ici][1].
 
-Le programme pour la conférence qui s’est passée le 5e Juin 2018 à l’Université de Québec à Montréal peut être téléchargé ici.
+Le programme pour la conférence qui s’est passée le 5e Juin 2018 à l’Université de Québec à Montréal peut être téléchargé [ici][2].
 
 Le programme pour la conférence qui s’est passée le 29e Mai 2017 à Ryerson University peut être téléchargé ici.
 
@@ -45,3 +45,4 @@ Le programme pour la conférence qui s’est passée le 26 Mai 2014 à l’Unive
 Le programme pour la conférence qui s’est passée le 3 Juin 2013  à l’Université de Victoria peut être téléchargé ici.
 
 [1]: https://github.com/CSCP-SCPC/cscp-scpc.github.io/files/6279485/CSCP2019programme.pdf
+[2]: https://github.com/CSCP-SCPC/cscp-scpc.github.io/files/6279568/CSCP2018programme.pdf
