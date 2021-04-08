@@ -9,9 +9,7 @@ header:
     image_fullwidth: header.jpg
 permalink: "/annual-meeting/"
 ---
-We hold an annual meeting at the Congress for the Social Sciences and the Humanities in conjunction with the Canadian Philosophical Association.
-
-Our meeting will take place as part of Congress 2021, which is being hosted by the University of Alberta, but which will take place completely online. The Call for Papers has been posted here.
+We hold an annual meeting at the Congress for the Social Sciences and the Humanities in conjunction with the Canadian Philosophical Association. Our meeting will take place as part of Congress 2021, which is being hosted by the University of Alberta, but which will take place completely online.
 
 The Call for Papers for this year's meeting can be found [here][2].
 

@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="This is the homepage of the CSCP-SCPC.">
+	<meta name="description" content="The homepage of the CSCP-SCPC.">
 	<meta name="google-site-verification" content="">
 	<meta name="msvalidate.01" content="" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="This is the homepage of the CSCP-SCPC.">
+	<meta property="og:description" content="The homepage of the CSCP-SCPC.">
 	<meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -353,7 +353,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              This is the homepage of the CSCP-SCPC.
+              The homepage of the CSCP-SCPC.
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
