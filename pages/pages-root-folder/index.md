@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: frontpage
 title: "Home"
 header:
   image_fullwidth: header.jpg
 callforaction:
-url: https://cscp-scpc.github.io
+permalink: /index.html
 homepage: true
 ---
 Welcome to the home page of the Canadian Society of Christian Philosophers! The primary purpose of the Canadian Society of Christian Philosophers is to provide a forum for discussion and exchange on topics in philosophy and religion–especially where these two disciplines meet.  Like the Society of Christian Philosophers in the United States, the Canadian Society is ecumenical in composition with respect to Christian denomination, theological perspective and philosophical orientation.  Participation in its meetings has, however, always been open to those who do not share its Christian commitment.
