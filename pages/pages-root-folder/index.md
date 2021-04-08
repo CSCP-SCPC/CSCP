@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 title: "Home"
 header:
   image_fullwidth: header.jpg
