@@ -6,6 +6,7 @@ subheadline:
 meta_title:
 teaser:
 header:
+    image_fullwidth: header.jpg
 ---
 Our 2020 meeting would have been held at Western University, in London, Ontario, on June 1st, 2020. The Call for Papers can be found here.
 
