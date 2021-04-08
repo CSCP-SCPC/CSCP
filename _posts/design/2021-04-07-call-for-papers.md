@@ -6,6 +6,7 @@ subheadline:
 meta_title:
 teaser:
 header:
+    image_fullwidth: header.jpg
 ---
 
 The **Canadian Society of Christian Philosophers** will hold its annual meeting on June 1, 2021 as part of the Annual Congress of the Canadian Philosophical Association, which will be sponsored by the University of Alberta, but held completely online.  We invite submissions in any field of philosophy, that, by virtue of its topic, may be of particular interest to Christian philosophers. Please submit an abstract of no more than 500 words (which should be formatted as a Word, pdf, or rtf document). Submissions may be in either French or English. Those who are interested should send their abstract, prepared for blind review, to Prof. Jennifer Hart Weed: jweed@unb.ca. 
