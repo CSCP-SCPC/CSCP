@@ -44,4 +44,4 @@ Le programme pour la conférence qui s’est passée le 26 Mai 2014 à l’Unive
 
 Le programme pour la conférence qui s’est passée le 3 Juin 2013  à l’Université de Victoria peut être téléchargé ici.
 
-[1]: http://cscp-scpc.github.io/files/CSCP2019Programme.pdf)
+[1]: http://cscp-scpc.github.io/files/CSCP2019Programme.pdf
