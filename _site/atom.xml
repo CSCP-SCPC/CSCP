@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Canadian Society of Christian Philosophers</title>
-	<updated>2021-04-08T09:51:30-04:00</updated>
+	<updated>2021-04-13T07:54:19-04:00</updated>
 
 	<subtitle>The homepage of the CSCP-SCPC.</subtitle>
 
@@ -37,9 +37,9 @@
 			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/previous-meetings/">&lt;p&gt;Our 2020 meeting would have been held at Western University, in London, Ontario, on June 1st, 2020. The Call for Papers can be found here.&lt;/p&gt;
 
-&lt;p&gt;Our 2019 meeting was held at the University of British Columbia, Vancouver on June 1st, 2019. The programme can be found &lt;a href=&quot;http://cscp-scpc.github.io/files/CSCP2019Programme.pdf)&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our 2019 meeting was held at the University of British Columbia, Vancouver on June 1st, 2019. The programme can be found &lt;a href=&quot;https://github.com/CSCP-SCPC/cscp-scpc.github.io/files/6279485/CSCP2019programme.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Our 2018 meeting was held at l’Université de Québec on June 5th, 2018. The programme can be found here.&lt;/p&gt;
+&lt;p&gt;Our 2018 meeting was held at l’Université de Québec on June 5th, 2018. The programme can be found &lt;a href=&quot;https://github.com/CSCP-SCPC/cscp-scpc.github.io/files/6279568/CSCP2018programme.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Our 2017 meeting was held at Ryerson University on May 29th, 2017. The programme can be found here.&lt;/p&gt;
 
@@ -57,9 +57,9 @@
 
 &lt;p&gt;Notre prochaine conférence sera organisée le 1er Juin 2020 à Western University, London.&lt;/p&gt;
 
-&lt;p&gt;Le programme pour la conférence qui s’est passée le 1er Juin 2019 à University of British Columbia, Vancouver,  peut être téléchargé ici.&lt;/p&gt;
+&lt;p&gt;Le programme pour la conférence qui s’est passée le 1er Juin 2019 à University of British Columbia, Vancouver,  peut être téléchargé &lt;a href=&quot;https://github.com/CSCP-SCPC/cscp-scpc.github.io/files/6279485/CSCP2019programme.pdf&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Le programme pour la conférence qui s’est passée le 5e Juin 2018 à l’Université de Québec à Montréal peut être téléchargé ici.&lt;/p&gt;
+&lt;p&gt;Le programme pour la conférence qui s’est passée le 5e Juin 2018 à l’Université de Québec à Montréal peut être téléchargé &lt;a href=&quot;https://github.com/CSCP-SCPC/cscp-scpc.github.io/files/6279568/CSCP2018programme.pdf&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Le programme pour la conférence qui s’est passée le 29e Mai 2017 à Ryerson University peut être téléchargé ici.&lt;/p&gt;
 
